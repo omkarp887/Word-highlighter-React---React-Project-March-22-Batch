@@ -1,4 +1,5 @@
 # Word Highlighter React 
+link: https://word-highlighter-by-omkar.netlify.app/
 
 In this project we will be creating the same functionality as the find function (control + f in windows and command + f on mac)
 of the browser.
